@@ -12,5 +12,7 @@
 ### 📌 My Projects  
 Here are some of my best projects:  
 ✅ **[Project 1: Community Center Management System (C++)](#)** – designed to manage community center operations
+
 ✅ **[Project 2: Planner System (Java)](#)** – allows users to schedule, organize, and track their activities efficiently  
+
 ✅ **[Project 3: 3D RPG game (C#/Unity)](https://github.com/vyyy-ttt/Vestige1)** – combat mechanics, character progression, and open-world exploration
