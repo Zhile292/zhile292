@@ -11,7 +11,7 @@
 ---
 ### 📌 My Projects  
 Here are some of my best projects:  
-✅ **[Project 1: Community Center Management System (C++)](#)** – designed to manage community center operations
+✅ **[Project 1: Community Center Management System (C++)](https://github.com/Zhile292/Community-Center-Management)** – designed to manage community center operations
 
 ✅ **[Project 2: Planner System (Java)](#)** – allows users to schedule, organize, and track their activities efficiently  
 
